@@ -1,0 +1,3 @@
+La compresión de datos es un proceso que reduce el tamaño de los archivos para ahorrar espacio de almacenamiento o acelerar su transmisión.
+Este archivo será utilizado para probar los algoritmos de compresión LZ77, Burrows-Wheeler y LZW.
+El contenido debe poder recuperarse sin pérdida para garantizar que los algoritmos funcionan correctamente.
